@@ -2,7 +2,12 @@
   "name": "http-service-stub",
   "version": "1.0.2",
   "description": "Stub GET requests for HTTP endpoints",
+  "keywords": ["http", "stub", "server", "test", "testing"],
   "author": "Anthony Green",
+  "repository" : {
+    "type" : "git",
+    "url"  : "https://github.com/bbc/http-service-stub"
+  },
   "license": "MIT",
   "main": "index.js",
   "scripts": {
