@@ -28,4 +28,4 @@ A DELETE request for a stubbed resource will remove the stub if it exists.
 
 ### Deployment
 
-Use [Cosmos](https://admin.live.bbc.co.uk/cosmos) to deploy to AWS
+Use [Cosmos](https://admin.live.bbc.co.uk/cosmos) to deploy to AWS, or to Heroku with one click [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
